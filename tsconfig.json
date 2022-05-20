@@ -1,0 +1,10 @@
+{
+  "include": [ "src/**/*", "*.js" ],
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "baseUrl": ".",
+    "outDir": "out",
+    "module": "CommonJS",
+    "skipLibCheck": true,
+  }
+}
